@@ -1,0 +1,7 @@
+C:\Users\ura04\Desktop\lb(proga)\bin\Debug\lb(proga).exe.config
+C:\Users\ura04\Desktop\lb(proga)\bin\Debug\lb(proga).exe
+C:\Users\ura04\Desktop\lb(proga)\bin\Debug\lb(proga).pdb
+C:\Users\ura04\Desktop\lb(proga)\obj\Debug\kp1.csproj.AssemblyReference.cache
+C:\Users\ura04\Desktop\lb(proga)\obj\Debug\kp1.csproj.CoreCompileInputs.cache
+C:\Users\ura04\Desktop\lb(proga)\obj\Debug\lb(proga).exe
+C:\Users\ura04\Desktop\lb(proga)\obj\Debug\lb(proga).pdb
